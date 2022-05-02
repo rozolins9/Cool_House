@@ -1,0 +1,70 @@
+.pamats {
+    background-color: brown;
+    height: 40vh;
+    width: 30vw;
+    position: fixed;
+    z-index: 1;
+    left: 40vw;
+    top: 30vh;
+}
+.jumts {
+    position: fixed;
+    width: 30vw;
+    height: 40vh;
+    clip-path: polygon(48% 65%, 0% 100%, 100% 100%);
+    left: 40vw;
+    top: -10vh;
+    z-index: 2;
+    background-color: orange;
+}
+.durvis {
+    position: fixed;
+    height: 18vh;
+    width: 7vw;
+    background-color: grey;
+    left: 45vw;
+    top: 52vh;
+    z-index: 3;
+}
+.logs {
+    position: fixed;
+    background-color: lightskyblue;
+    width: 10vw;
+    height: 10vh;
+    left: 55vw;
+    top: 50vh;
+    border-style: double;
+    border-color: black;
+    z-index: 4;
+}
+.loga_aile1 {
+    position: fixed;
+    width: 2vw;
+    height: 10.5vh;
+    background-color: black;
+    left: 59.5vw;
+    top: 50.25vh;
+    z-index: 5;
+}
+.skurstenis {
+    position: fixed;
+    background-color: burlywood;
+    height: 14vh;
+    width: 5vw;
+    left: 45vw;
+    top: 15vh;
+    z-index: 0;
+}
+.zeme {
+    background-color: green;
+    position: fixed;
+    height: 50vh;
+    width: 100vw;
+    top: 50vh;
+}
+.debesis {
+    background-color: blue;
+    position: fixed;
+    height: 50vh;
+    width: 100vw;
+}
